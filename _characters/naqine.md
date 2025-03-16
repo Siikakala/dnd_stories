@@ -6,7 +6,7 @@ locale: en-US
 name: Naqine
 firstname: Naqine
 category: fictional
-image: /assets/images/dnd_stories/Naqine.jpg
+image: /assets/images/dnd/Naqine.jpg
 ---
 
 Backstory:
