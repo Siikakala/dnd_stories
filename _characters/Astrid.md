@@ -6,7 +6,7 @@ locale: en-US
 name: Astrid
 firstname: Astrid
 category: fictional
-image: /assets/images/dnd/Astrid.jpg
+image: /assets/images/dnd/Astrid.png
 ---
 
 Backstory:
