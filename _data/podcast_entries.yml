@@ -29,3 +29,19 @@ dalelands:
     desc: The Forge of Roldilar &amp; The Four-Headed Dragon
     language: en
     tags: [D&D, Podcast]
+ravenloft:
+  - title: Ravenloft - Episode 1
+    url: podcasts/ravenloft/episode-1
+    desc: Into the Mists, the Living Head, and the Wereraven of Crawford
+    language: en
+    tags: [D&D, Podcast]
+  - title: Ravenloft - Episode 2
+    url: podcasts/ravenloft/episode-2
+    desc: The Curse of Monette's Island &amp; The Beast of the Caverns
+    language: en
+    tags: [D&D, Podcast]
+  - title: Ravenloft - Episode 3
+    url: podcasts/ravenloft/episode-3
+    desc: Dream-Haunted Wolves, The Völva's Prophecy &amp; The Tyrant of Vallaki
+    language: en
+    tags: [D&D, Podcast]
