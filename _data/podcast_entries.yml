@@ -9,3 +9,13 @@ podcasts:
     desc: Dalelands - Episode 2. Shadows over Cormanthor
     language: en
     tags: [D&D, Podcast]
+  - title: Dalelands - Episode 3
+    url: podcasts/dalelands/episode-3
+    desc: Dalelands - Episode 3. The Tower of Shadows &amp; Daggerfall
+    language: en
+    tags: [D&D, Podcast]
+  - title: Dalelands - Episode 4
+    url: podcasts/dalelands/episode-4
+    desc: Dalelands - Episode 4. Reclaiming Tethyamar
+    language: en
+    tags: [D&D, Podcast]
