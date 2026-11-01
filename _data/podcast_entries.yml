@@ -19,3 +19,13 @@ podcasts:
     desc: Dalelands - Episode 4. Reclaiming Tethyamar
     language: en
     tags: [D&D, Podcast]
+  - title: Dalelands - Episode 5
+    url: podcasts/dalelands/episode-5
+    desc: Dalelands - Episode 5. The Elf Vault &amp; Fastren's Fall
+    language: en
+    tags: [D&D, Podcast]
+  - title: Dalelands - Episode 6
+    url: podcasts/dalelands/episode-6
+    desc: Dalelands - Episode 6. The Forge of Roldilar &amp; The Four-Headed Dragon
+    language: en
+    tags: [D&D, Podcast]
