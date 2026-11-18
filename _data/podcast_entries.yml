@@ -1,32 +1,92 @@
 dalelands:
+  - title: Dalelands - Episode 0
+    url: podcasts/dalelands/episode-0
+    desc: Session 0 - The introductions
+    language: en
+    tags: [D&D, Podcast]
   - title: Dalelands - Episode 1
     url: podcasts/dalelands/episode-1
-    desc: Session 0 - The introductions
+    desc: Missing Horses, Bandit Tracks, and 3.0e Survival
     language: en
     tags: [D&D, Podcast]
   - title: Dalelands - Episode 2
     url: podcasts/dalelands/episode-2
-    desc: Shadows over Cormanthor
+    desc:
     language: en
     tags: [D&D, Podcast]
   - title: Dalelands - Episode 3
     url: podcasts/dalelands/episode-3
-    desc: The Tower of Shadows &amp; Daggerfall
+    desc:
     language: en
     tags: [D&D, Podcast]
   - title: Dalelands - Episode 4
     url: podcasts/dalelands/episode-4
-    desc: Reclaiming Tethyamar
+    desc:
     language: en
     tags: [D&D, Podcast]
   - title: Dalelands - Episode 5
     url: podcasts/dalelands/episode-5
-    desc: The Elf Vault &amp; Fastren's Fall
+    desc:
     language: en
     tags: [D&D, Podcast]
   - title: Dalelands - Episode 6
     url: podcasts/dalelands/episode-6
-    desc: The Forge of Roldilar &amp; The Four-Headed Dragon
+    desc:
+    language: en
+    tags: [D&D, Podcast]
+  - title: Dalelands - Episode 7
+    url: podcasts/dalelands/episode-7
+    desc:
+    language: en
+    tags: [D&D, Podcast]
+  - title: Dalelands - Episode 8
+    url: podcasts/dalelands/episode-8
+    desc:
+    language: en
+    tags: [D&D, Podcast]
+  - title: Dalelands - Episode 9
+    url: podcasts/dalelands/episode-9
+    desc:
+    language: en
+    tags: [D&D, Podcast]
+  - title: Dalelands - Episode 10
+    url: podcasts/dalelands/episode-10
+    desc:
+    language: en
+    tags: [D&D, Podcast]
+  - title: Dalelands - Episode 11
+    url: podcasts/dalelands/episode-11
+    desc:
+    language: en
+    tags: [D&D, Podcast]
+  - title: Dalelands - Episode 12
+    url: podcasts/dalelands/episode-12
+    desc:
+    language: en
+    tags: [D&D, Podcast]
+  - title: Dalelands - Episode 13
+    url: podcasts/dalelands/episode-13
+    desc:
+    language: en
+    tags: [D&D, Podcast]
+  - title: Dalelands - Episode 14
+    url: podcasts/dalelands/episode-14
+    desc:
+    language: en
+    tags: [D&D, Podcast]
+  - title: Dalelands - Episode 15
+    url: podcasts/dalelands/episode-15
+    desc:
+    language: en
+    tags: [D&D, Podcast]
+  - title: Dalelands - Episode 16
+    url: podcasts/dalelands/episode-16
+    desc: 
+    language: en
+    tags: [D&D, Podcast]
+  - title: Dalelands - Episode 17
+    url: podcasts/dalelands/episode-17
+    desc: Epilog
     language: en
     tags: [D&D, Podcast]
 ravenloft:
