@@ -11,84 +11,84 @@ dalelands:
     tags: [D&D, Podcast]
   - title: Dalelands - Episode 2
     url: podcasts/dalelands/episode-2
-    desc: The Road to Tethyamar – Ancient Statuettes, Magical Beasts, and 3.0e Travel
+    desc: The Road to Tethyamar - Ancient Statuettes, Magical Beasts, and 3.0e Travel
     language: en
     tags: [D&D, Podcast]
-  - title: Dalelands - Episode 3
-    url: podcasts/dalelands/episode-3
-    desc:
-    language: en
-    tags: [D&D, Podcast]
-  - title: Dalelands - Episode 4
-    url: podcasts/dalelands/episode-4
-    desc:
-    language: en
-    tags: [D&D, Podcast]
-  - title: Dalelands - Episode 5
-    url: podcasts/dalelands/episode-5
-    desc:
-    language: en
-    tags: [D&D, Podcast]
-  - title: Dalelands - Episode 6
-    url: podcasts/dalelands/episode-6
-    desc:
-    language: en
-    tags: [D&D, Podcast]
-  - title: Dalelands - Episode 7
-    url: podcasts/dalelands/episode-7
-    desc:
-    language: en
-    tags: [D&D, Podcast]
-  - title: Dalelands - Episode 8
-    url: podcasts/dalelands/episode-8
-    desc:
-    language: en
-    tags: [D&D, Podcast]
-  - title: Dalelands - Episode 9
-    url: podcasts/dalelands/episode-9
-    desc:
-    language: en
-    tags: [D&D, Podcast]
-  - title: Dalelands - Episode 10
-    url: podcasts/dalelands/episode-10
-    desc:
-    language: en
-    tags: [D&D, Podcast]
-  - title: Dalelands - Episode 11
-    url: podcasts/dalelands/episode-11
-    desc:
-    language: en
-    tags: [D&D, Podcast]
-  - title: Dalelands - Episode 12
-    url: podcasts/dalelands/episode-12
-    desc:
-    language: en
-    tags: [D&D, Podcast]
-  - title: Dalelands - Episode 13
-    url: podcasts/dalelands/episode-13
-    desc:
-    language: en
-    tags: [D&D, Podcast]
-  - title: Dalelands - Episode 14
-    url: podcasts/dalelands/episode-14
-    desc:
-    language: en
-    tags: [D&D, Podcast]
-  - title: Dalelands - Episode 15
-    url: podcasts/dalelands/episode-15
-    desc:
-    language: en
-    tags: [D&D, Podcast]
-  - title: Dalelands - Episode 16
-    url: podcasts/dalelands/episode-16
-    desc:
-    language: en
-    tags: [D&D, Podcast]
-  - title: Dalelands - Episode 17
-    url: podcasts/dalelands/episode-17
-    desc: Epilog
-    language: en
-    tags: [D&D, Podcast]
+  # - title: Dalelands - Episode 3
+  #   url: podcasts/dalelands/episode-3
+  #   desc:
+  #   language: en
+  #   tags: [D&D, Podcast]
+  # - title: Dalelands - Episode 4
+  #   url: podcasts/dalelands/episode-4
+  #   desc:
+  #   language: en
+  #   tags: [D&D, Podcast]
+  # - title: Dalelands - Episode 5
+  #   url: podcasts/dalelands/episode-5
+  #   desc:
+  #   language: en
+  #   tags: [D&D, Podcast]
+  # - title: Dalelands - Episode 6
+  #   url: podcasts/dalelands/episode-6
+  #   desc:
+  #   language: en
+  #   tags: [D&D, Podcast]
+  # - title: Dalelands - Episode 7
+  #   url: podcasts/dalelands/episode-7
+  #   desc:
+  #   language: en
+  #   tags: [D&D, Podcast]
+  # - title: Dalelands - Episode 8
+  #   url: podcasts/dalelands/episode-8
+  #   desc:
+  #   language: en
+  #   tags: [D&D, Podcast]
+  # - title: Dalelands - Episode 9
+  #   url: podcasts/dalelands/episode-9
+  #   desc:
+  #   language: en
+  #   tags: [D&D, Podcast]
+  # - title: Dalelands - Episode 10
+  #   url: podcasts/dalelands/episode-10
+  #   desc:
+  #   language: en
+  #   tags: [D&D, Podcast]
+  # - title: Dalelands - Episode 11
+  #   url: podcasts/dalelands/episode-11
+  #   desc:
+  #   language: en
+  #   tags: [D&D, Podcast]
+  # - title: Dalelands - Episode 12
+  #   url: podcasts/dalelands/episode-12
+  #   desc:
+  #   language: en
+  #   tags: [D&D, Podcast]
+  # - title: Dalelands - Episode 13
+  #   url: podcasts/dalelands/episode-13
+  #   desc:
+  #   language: en
+  #   tags: [D&D, Podcast]
+  # - title: Dalelands - Episode 14
+  #   url: podcasts/dalelands/episode-14
+  #   desc:
+  #   language: en
+  #   tags: [D&D, Podcast]
+  # - title: Dalelands - Episode 15
+  #   url: podcasts/dalelands/episode-15
+  #   desc:
+  #   language: en
+  #   tags: [D&D, Podcast]
+  # - title: Dalelands - Episode 16
+  #   url: podcasts/dalelands/episode-16
+  #   desc:
+  #   language: en
+  #   tags: [D&D, Podcast]
+  # - title: Dalelands - Episode 17
+  #   url: podcasts/dalelands/episode-17
+  #   desc: Epilog
+  #   language: en
+  #   tags: [D&D, Podcast]
 ravenloft:
   - title: Ravenloft - Episode 1
     url: podcasts/ravenloft/episode-1
