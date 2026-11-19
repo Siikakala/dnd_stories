@@ -1,3 +1,19 @@
+ravenloft:
+  - title: Ravenloft - Episode 1
+    url: podcasts/ravenloft/episode-1
+    desc: Into the Mists, the Living Head, and the Wereraven of Crawford
+    language: en
+    tags: [D&D, Podcast]
+  - title: Ravenloft - Episode 2
+    url: podcasts/ravenloft/episode-2
+    desc: The Curse of Monette's Island &amp; The Beast of the Caverns
+    language: en
+    tags: [D&D, Podcast]
+  - title: Ravenloft - Episode 3
+    url: podcasts/ravenloft/episode-3
+    desc: Dream-Haunted Wolves, The Völva's Prophecy &amp; The Tyrant of Vallaki
+    language: en
+    tags: [D&D, Podcast]
 dalelands:
   - title: Dalelands - Episode 0
     url: podcasts/dalelands/episode-0
@@ -11,7 +27,7 @@ dalelands:
     tags: [D&D, Podcast]
   - title: Dalelands - Episode 2
     url: podcasts/dalelands/episode-2
-    desc: The Road to Tethyamar - Ancient Statuettes, Magical Beasts, and 3.0e Travel
+    desc: The Road to Tethyamar – Beast Contracts, Burial Ground Rituals, and 3.0e Reincarnation
     language: en
     tags: [D&D, Podcast]
   # - title: Dalelands - Episode 3
@@ -89,19 +105,3 @@ dalelands:
   #   desc: Epilog
   #   language: en
   #   tags: [D&D, Podcast]
-ravenloft:
-  - title: Ravenloft - Episode 1
-    url: podcasts/ravenloft/episode-1
-    desc: Into the Mists, the Living Head, and the Wereraven of Crawford
-    language: en
-    tags: [D&D, Podcast]
-  - title: Ravenloft - Episode 2
-    url: podcasts/ravenloft/episode-2
-    desc: The Curse of Monette's Island &amp; The Beast of the Caverns
-    language: en
-    tags: [D&D, Podcast]
-  - title: Ravenloft - Episode 3
-    url: podcasts/ravenloft/episode-3
-    desc: Dream-Haunted Wolves, The Völva's Prophecy &amp; The Tyrant of Vallaki
-    language: en
-    tags: [D&D, Podcast]
