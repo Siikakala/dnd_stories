@@ -27,14 +27,14 @@ dalelands:
     tags: [D&D, Podcast]
   - title: Dalelands - Episode 2
     url: podcasts/dalelands/episode-2
-    desc: The Road to Tethyamar – Beast Contracts, Burial Ground Rituals, and 3.0e Reincarnation
+    desc: From the Dragon's Nest to the Barrow Fields - Psionic Visions, Meat Golems, and 3.0e Reincarnation
     language: en
     tags: [D&D, Podcast]
-  # - title: Dalelands - Episode 3
-  #   url: podcasts/dalelands/episode-3
-  #   desc:
-  #   language: en
-  #   tags: [D&D, Podcast]
+  - title: Dalelands - Episode 3
+    url: podcasts/dalelands/episode-3
+    desc: Dush and Kevan Join, Zhent Ambushes, and the Shadows of Daggerdale
+    language: en
+    tags: [D&D, Podcast]
   # - title: Dalelands - Episode 4
   #   url: podcasts/dalelands/episode-4
   #   desc:
