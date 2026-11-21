@@ -45,11 +45,11 @@ dalelands:
     desc: Tragedy at the Standing Stone - Earth Elemental Ambush, Character Deaths, and the Ethereal Lich Siege
     language: en
     tags: [D&D, Podcast]
-  # - title: Dalelands - Episode 6
-  #   url: podcasts/dalelands/episode-6
-  #   desc:
-  #   language: en
-  #   tags: [D&D, Podcast]
+  - title: Dalelands - Episode 6
+    url: podcasts/dalelands/episode-6
+    desc: The Road to Roldilar – Resurrections, Mount Grimmerfang, and the Dragon Turtle of Ashaba
+    language: en
+    tags: [D&D, Podcast]
   # - title: Dalelands - Episode 7
   #   url: podcasts/dalelands/episode-7
   #   desc:
