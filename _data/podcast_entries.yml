@@ -35,11 +35,11 @@ dalelands:
     desc: Dush and Kevan Join, Zhent Ambushes, and the Shadows of Daggerdale
     language: en
     tags: [D&D, Podcast]
-  # - title: Dalelands - Episode 4
-  #   url: podcasts/dalelands/episode-4
-  #   desc:
-  #   language: en
-  #   tags: [D&D, Podcast]
+  - title: Dalelands - Episode 4
+    url: podcasts/dalelands/episode-4
+    desc: The Fall of Tethyamar's Traitors and the Standing Stone's Lair
+    language: en
+    tags: [D&D, Podcast]
   # - title: Dalelands - Episode 5
   #   url: podcasts/dalelands/episode-5
   #   desc:
