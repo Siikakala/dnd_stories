@@ -40,11 +40,11 @@ dalelands:
     desc: The Fall of Tethyamar's Traitors and the Standing Stone's Lair
     language: en
     tags: [D&D, Podcast]
-  # - title: Dalelands - Episode 5
-  #   url: podcasts/dalelands/episode-5
-  #   desc:
-  #   language: en
-  #   tags: [D&D, Podcast]
+  - title: Dalelands - Episode 5
+    url: podcasts/dalelands/episode-5
+    desc: Tragedy at the Standing Stone - Earth Elemental Ambush, Character Deaths, and the Ethereal Lich Siege
+    language: en
+    tags: [D&D, Podcast]
   # - title: Dalelands - Episode 6
   #   url: podcasts/dalelands/episode-6
   #   desc:
