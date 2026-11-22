@@ -50,11 +50,11 @@ dalelands:
     desc: The Road to Roldilar – Resurrections, Mount Grimmerfang, and the Dragon Turtle of Ashaba
     language: en
     tags: [D&D, Podcast]
-  # - title: Dalelands - Episode 7
-  #   url: podcasts/dalelands/episode-7
-  #   desc:
-  #   language: en
-  #   tags: [D&D, Podcast]
+  - title: Dalelands - Episode 7
+    url: podcasts/dalelands/episode-7
+    desc: The Tilverton Anomaly, High Suzail Politics, and the Mithril Golem of Warrior's Crypt
+    language: en
+    tags: [D&D, Podcast]
   # - title: Dalelands - Episode 8
   #   url: podcasts/dalelands/episode-8
   #   desc:
